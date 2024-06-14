@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+
+h2{
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 200px;
+    
+}
+img {
+    width:350px;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

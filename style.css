@@ -1,0 +1,15 @@
+h1{
+    text-align:center;
+}
+.start{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+.start-button{
+display:block;
+margin:auto;
+}
+body{
+    background-image: url("https://i.redd.it/ab94i3q4agk21.jpg")
+
+}
